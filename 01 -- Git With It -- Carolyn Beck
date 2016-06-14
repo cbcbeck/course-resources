@@ -1,0 +1,38 @@
+# Git With It
+
+## Overview
+
+Start to get familiar with GitHub by completing some common tasks.
+
+## Tasks
+
+### Required Tasks
+
+- [ ] Open a new issue in the `course-resources` repository
+  - [ ] Title it `01 -- Git With It -- Your Name`
+  - [ ] Copy the list of tasks from the **RAW** view of this assignment into the description of your issue
+  - [ ] Give the issue the label `WIP`
+  - [ ] Submit the issue
+- [ ] Check off items in the issue as you complete them (including this one!)
+- [ ] Fork the [git-with-it](https://github.com/wcci-summer-2016/git-with-it) repository.
+  - [ ] Clone the forked version of the repository onto your machine
+- [ ] Edit `index.html` on your local machine
+  - [ ] Create a new branch before making any edits
+  - [ ] Copy the code in between `<!-- BEGIN STUDENT INFO TEMPLATE -->` and `<!-- END STUDENT INFO TEMPLATE -->`
+  - [ ] Replace the information with your information, including a list of your hobbies. You aren't just limited to two - make additional `<li>` tags as necessary
+  - [ ] Commit the changes to your local copy
+  - [ ] Push them up to your forked repository
+- [ ] Create a Pull request on the upstream `git-with-it` repository
+- [ ] Review someone else's pull request
+  - [ ] Approve it if they followed instructions
+  - [ ] Leave a comment for them about what to fix if they did not
+- [ ] Let us know you're done
+  - [ ] Remove the `WIP` label
+  - [ ] Add the `Ready for Review` label
+  - [ ] Mention the `@staff` team in a comment indicating you're done
+
+### Stretch Tasks
+
+- [ ] Incorporate an image into your student info section
+- [ ] Make some changes to the `main.css` file and submit a pull request for that
+- [ ] Take a look at additional pull requests and offer feedback
